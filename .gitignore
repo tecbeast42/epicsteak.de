@@ -1,6 +1,9 @@
 /.vagrant
 /vendor
 /node_modules
+/public/css
+/public/js
+/public/build
 
 Vagrantfile
 Homestead.yaml
